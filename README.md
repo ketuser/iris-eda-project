@@ -4,6 +4,8 @@
 
 ## Overview
 Exploratory Data Analysis on the Iris dataset to identify patterns in flower measurements for species classification.
+showcasing Python analytics, visualizations (including 3D Plotly scatter), and SQL. 
+Note: The 3D Plotly plot is not rendered on GitHub, but it works locally in Jupyter.
 
 ## Problem Statement
 Analyze sepal and petal measurements to uncover features that distinguish Iris species, using Python, SQL, and visualizations.
@@ -21,6 +23,6 @@ Analyze sepal and petal measurements to uncover features that distinguish Iris s
 - Git for version control
 
 ## Key Findings
-- Petal length/width distinguish Setosa; Versicolor/Virginica overlap.
+- Petal length/width distinguishes Setosa; Versicolor/Virginica overlap.
 - 3D scatter confirms Setosa’s tight cluster; petal dimensions key for classification.
 

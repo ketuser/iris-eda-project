@@ -21,7 +21,7 @@ Analyze sepal and petal measurements to uncover features that distinguish Iris s
 - Git for version control
 
 ## Key Findings
-- Petal length/width distinguish Setosa; Versicolor/Virginica overlap.
+- Petal length/width distinguishes Setosa; Versicolor/Virginica overlap.
 - 3D scatter confirms Setosa’s tight cluster; petal dimensions key for classification.
 
 
